@@ -1,79 +1,79 @@
-# Privacy Policy for Bright Head
+# Bright Head için Gizlilik Politikası
 
-Last updated: March 28, 2026
+Son güncelleme: 28 Mart 2026
 
-Bright Head ("we", "our", "the app") provides wellness support and trigger-regulation guidance.
-Bright Head is not a medical device and does not provide diagnosis or treatment.
+Bright Head ("biz", "uygulama") iyi oluş (wellness) desteği ve tetik düzenleme rehberliği sağlar.
+Bright Head bir tıbbi cihaz değildir ve tanı veya tedavi sunmaz.
 
-## 1. Data We Access
+## 1. Eriştiğimiz Veriler
 
-### Health and Motion Data (Apple HealthKit, Apple Watch, Motion)
-If you grant permission, the app may access:
-- Heart rate
-- Workout session context used to enable live heart-rate collection on Apple Watch
-- Motion and step data used for activity context and activity gating
+### Sağlık ve Hareket Verileri (Apple HealthKit, Apple Watch, Hareket)
+İzin verirseniz uygulama aşağıdaki verilere erişebilir:
+- Kalp atış hızı
+- Apple Watch'ta canlı kalp atışı toplamayı etkinleştirmek için antrenman oturumu bağlamı
+- Aktivite bağlamı ve aktivite elemesi için hareket/adım verileri
 
-### User-Provided Content
-If you use Relationship Reminders, the app stores:
-- Text captions you enter
-- Photos you select
+### Kullanıcı Tarafından Sağlanan İçerik
+Relationship Reminders özelliğini kullanırsanız uygulama şunları saklar:
+- Girdiğiniz metin açıklamaları
+- Seçtiğiniz fotoğraflar
 
-### Onboarding Answers
-If you complete onboarding questions, your selected answers may be stored on-device to personalize your in-app experience.
+### Onboarding Cevapları
+Onboarding sorularını tamamlarsanız, seçtiğiniz cevaplar uygulama deneyimini kişiselleştirmek için cihaz üzerinde saklanabilir.
 
-### Subscription Status
-For subscriptions, the app uses RevenueCat and Apple in-app purchase systems to check entitlement status.
-We do not collect your card or payment credentials directly.
+### Abonelik Durumu
+Abonelikler için uygulama, hak (entitlement) durumunu kontrol etmek amacıyla RevenueCat ve Apple uygulama içi satın alma sistemlerini kullanır.
+Kart veya ödeme bilgileriniz doğrudan tarafımızca toplanmaz.
 
-### Support Form (Optional)
-If you open Help & Feedback, a support form is loaded from Tally (`tally.so`).
+### Destek Formu (İsteğe Bağlı)
+Yardım ve Geri Bildirim ekranını açarsanız destek formu Tally (`tally.so`) üzerinden yüklenir.
 
-## 2. How We Use Data
-We use data to:
-- Estimate trigger state in real time
-- Show calming tools and guidance
-- Display and sync live status between paired Apple Watch and iPhone
-- Manage subscription entitlement status
+## 2. Verileri Nasıl Kullanıyoruz
+Verileri şu amaçlarla kullanırız:
+- Tetik durumunu gerçek zamanlı tahmin etmek
+- Sakinleşmeye yardımcı araçlar ve rehberlik sunmak
+- Eşleşmiş Apple Watch ve iPhone arasında canlı durumu göstermek ve senkronlamak
+- Abonelik hak (entitlement) durumunu yönetmek
 
-We do not use your data for advertising.
+Verilerinizi reklam amacıyla kullanmayız.
 
-## 3. Storage and Sharing
-- Relationship reminder text and photos are stored locally on your device.
-- Relationship reminder files are written with iOS file protection.
-- Trigger-detection physiological signals (such as heart-rate signals used by the app) are processed on-device.
-- Physiological data used for trigger analysis is not sent to external servers by the app.
-- Live status signals are exchanged between paired watch and phone using Apple WatchConnectivity.
-- We do not sell personal data.
-- We do not share HealthKit data with third parties for marketing.
+## 3. Depolama ve Paylaşım
+- Relationship Reminders metinleri ve fotoğrafları cihazınızda yerel olarak saklanır.
+- Relationship Reminders dosyaları iOS dosya koruması ile yazılır.
+- Tetik analizi için kullanılan fizyolojik sinyaller (ör. kalp atışı sinyalleri) cihaz üzerinde işlenir.
+- Tetik analizi için kullanılan fizyolojik veriler uygulama tarafından harici sunuculara gönderilmez.
+- Canlı durum sinyalleri, eşleşmiş saat ve telefon arasında Apple WatchConnectivity ile paylaşılır.
+- Kişisel verileri satmayız.
+- HealthKit verilerini pazarlama amacıyla üçüncü taraflarla paylaşmayız.
 
-## 4. Health and Safety Notice
-Bright Head is intended for general wellness support only.
-It is not intended to diagnose, treat, cure, or prevent any disease or medical condition.
-If you feel unwell or have concerning symptoms, contact a qualified healthcare professional.
+## 4. Sağlık ve Güvenlik Uyarısı
+Bright Head yalnızca genel iyi oluş desteği amacıyla tasarlanmıştır.
+Herhangi bir hastalığı veya tıbbi durumu teşhis etmek, tedavi etmek, iyileştirmek veya önlemek amacı taşımaz.
+Kendinizi iyi hissetmiyorsanız veya endişe verici belirtileriniz varsa, nitelikli bir sağlık uzmanına başvurun.
 
-## 5. Permissions
-You may deny or revoke permissions at any time in iOS/watchOS settings:
-- Health permissions (Health app / Settings)
+## 5. İzinler
+İzinleri iOS/watchOS ayarlarından istediğiniz zaman reddedebilir veya geri çekebilirsiniz:
+- Sağlık izinleri (Health uygulaması / Ayarlar)
 - Motion & Fitness
-- Notifications
-- Photos access (if using reminder photos)
+- Bildirimler
+- Fotoğraflar erişimi (hatırlatma görselleri kullanılıyorsa)
 
-Some features may not work without required permissions.
+Gerekli izinler olmadan bazı özellikler çalışmayabilir.
 
-## 6. Children
-Bright Head is not directed to children under 13.
-If you believe a child has provided personal information, contact us to request deletion.
+## 6. Çocuklar
+Bright Head, 13 yaşın altındaki çocuklara yönelik değildir.
+Bir çocuğun kişisel bilgi sağladığını düşünüyorsanız, silme talebi için bizimle iletişime geçin.
 
-## 7. Data Retention
-Reminder content you add remains on your device until you edit/delete it or uninstall the app.
-Onboarding answers remain on-device until app data is reset or removed.
+## 7. Veri Saklama
+Eklediğiniz hatırlatma içerikleri siz düzenleyene/silene veya uygulamayı kaldırana kadar cihazınızda kalır.
+Onboarding cevapları, uygulama verisi sıfırlanana veya silinene kadar cihaz üzerinde kalır.
 
-## 8. International Users
-If you use the app outside your home country, core trigger processing remains primarily on-device.
+## 8. Uluslararası Kullanıcılar
+Uygulamayı ülkeniz dışında kullansanız bile tetik analizi işlemesi ağırlıklı olarak cihaz üzerinde kalır.
 
-## 9. Changes to This Policy
-We may update this Privacy Policy from time to time.
-The "Last updated" date indicates the latest version.
+## 9. Bu Politika Üzerindeki Değişiklikler
+Bu Gizlilik Politikasını zaman zaman güncelleyebiliriz.
+"Son güncelleme" tarihi en güncel sürümü gösterir.
 
-## 10. Contact
-Contact email: ozdemirtradesolutions@gmail.com
+## 10. İletişim
+İletişim e-postası: ozdemirtradesolutions@gmail.com
