@@ -2,7 +2,7 @@
 
 Son güncelleme: 28 Mart 2026
 
-CoolHead ("biz", "uygulama") iyi oluş (wellness) desteği ve tetik düzenleme rehberliği sağlar.
+CoolHead ("biz", "uygulama") kisisel gelisim (wellness) desteği saglar ve tetiklenme durumlarinda size yardimci olur.
 CoolHead bir tıbbi cihaz değildir ve tanı veya tedavi sunmaz.
 
 ## 1. Eriştiğimiz Veriler
