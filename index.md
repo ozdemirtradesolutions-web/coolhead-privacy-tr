@@ -3,7 +3,7 @@
 Son güncelleme: 28 Mart 2026
 
 CoolHead ("biz", "uygulama") kisisel gelisim (wellness) desteği saglar ve tetiklenme durumlarinda size yardimci olur.
-CoolHead bir tıbbi cihaz değildir ve tanı veya tedavi sunmaz.
+CoolHead bir tıbbi cihaz değildir ve tani veya tedavi sunmaz.
 
 ## 1. Eriştiğimiz Veriler
 
