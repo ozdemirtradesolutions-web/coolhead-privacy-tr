@@ -1,9 +1,9 @@
-# Bright Head için Gizlilik Politikası
+# CoolHead için Gizlilik Politikası
 
 Son güncelleme: 28 Mart 2026
 
-Bright Head ("biz", "uygulama") iyi oluş (wellness) desteği ve tetik düzenleme rehberliği sağlar.
-Bright Head bir tıbbi cihaz değildir ve tanı veya tedavi sunmaz.
+CoolHead ("biz", "uygulama") iyi oluş (wellness) desteği ve tetik düzenleme rehberliği sağlar.
+CoolHead bir tıbbi cihaz değildir ve tanı veya tedavi sunmaz.
 
 ## 1. Eriştiğimiz Veriler
 
@@ -47,7 +47,7 @@ Verilerinizi reklam amacıyla kullanmayız.
 - HealthKit verilerini pazarlama amacıyla üçüncü taraflarla paylaşmayız.
 
 ## 4. Sağlık ve Güvenlik Uyarısı
-Bright Head yalnızca genel iyi oluş desteği amacıyla tasarlanmıştır.
+CoolHead yalnızca genel iyi oluş desteği amacıyla tasarlanmıştır.
 Herhangi bir hastalığı veya tıbbi durumu teşhis etmek, tedavi etmek, iyileştirmek veya önlemek amacı taşımaz.
 Kendinizi iyi hissetmiyorsanız veya endişe verici belirtileriniz varsa, nitelikli bir sağlık uzmanına başvurun.
 
@@ -61,7 +61,7 @@ Kendinizi iyi hissetmiyorsanız veya endişe verici belirtileriniz varsa, niteli
 Gerekli izinler olmadan bazı özellikler çalışmayabilir.
 
 ## 6. Çocuklar
-Bright Head, 13 yaşın altındaki çocuklara yönelik değildir.
+CoolHead, 13 yaşın altındaki çocuklara yönelik değildir.
 Bir çocuğun kişisel bilgi sağladığını düşünüyorsanız, silme talebi için bizimle iletişime geçin.
 
 ## 7. Veri Saklama
